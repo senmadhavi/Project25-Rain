@@ -7,7 +7,7 @@ function setup() {
     window.innerWidth,
     window.innerHeight
   );
-  background(0);
+  
 
   var x = 0;
   for (var i = 0; i <= width / symbolSize; i++) {
